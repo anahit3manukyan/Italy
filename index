@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Home Page</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+	
+</head>
+<body>
+<header>
+	<div id="main-header">
+		<h2>Italy</h2>
+		<h3>A land of art and history</h3>
+	</div>
+	<div id="menu">
+		<ul>
+			<li><a href="">Home</a></li>
+			<li><a href="">Get Brochure</a></li>
+			<li><a href="">Special Offers</a></li>
+			<li><a href="">Join Email List</a></li>
+			<li><a href="">Contact Us</a></li>
+		</ul>
+	</div>
+</header>
+<section >
+	<div id="sec1">
+	<h2>Heading</h2>
+	<div id="content">
+
+		<img src="image1.jpg">
+		<p>testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing
+		 </p>
+	</div>
+	
+	</div>
+	<div id="sec2">
+	<h3>To Learn More</h3>
+	<ul>
+		<li><a href="">Home</a></li>
+			<li><a href="">Rome</a></li>
+			<li><a href="">Florence</a></li>
+			<li><a href="">Venice</a></li>
+			<li><a href="">Assisi</a></li>
+			<li><a href="">Siena</a></li>
+			<li><a href="">Pisa</a></li>
+			<li><a href="">Napies</a></li>
+			<li><a href="">Milan</a></li>
+			<li><a href="">Pompaie</a></li>
+	</ul>
+</section>
+</body>
+<footer>
+	<address>Abc,addres1, addresee2,11111</address>
+</footer>
+</html>
